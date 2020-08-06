@@ -7,5 +7,5 @@ Check the website : [link](https://jagritparajuli.github.io/vanillajsprojects/)
 ## Projects List
 
 |#|Projects|Link|
-|Sn|--------|----|
-|01|Form Validator|[Link](https://jagritparajuli.github.io/vanillajsprojects/form-validator/index.html)|
+|Sn|:---: |:---: |
+|01|Form Validator|[>](https://jagritparajuli.github.io/vanillajsprojects/form-validator/index.html)|
