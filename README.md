@@ -13,3 +13,4 @@
 | 03  | Custom Video Player      | [Link](https://jagritparajuli.github.io/vanillajsprojects/video-player/index.html)             |
 | 04  | Exchange Rate Calculator | [Link](https://jagritparajuli.github.io/vanillajsprojects/exchange-rate-calculator/index.html) |
 | 05  | User Wealth Management   | [Link](https://jagritparajuli.github.io/vanillajsprojects/user-wealth/index.html)              |
+| 06  | User Wealth Management   | [Link](https://jagritparajuli.github.io/vanillajsprojects/modal-menu-slider/index.html)        |

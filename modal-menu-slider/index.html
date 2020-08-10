@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Homepage</title>
+  </head>
+  <body>
+    <nav>
+      <div class="logo">
+        <img src="https://randomuser.me/api/portraits/men/20.jpg" alt="user" />
+      </div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <header>
+      <button id="toggle" class="toggle">
+        <i class="fa fa-bars fa-2x"></i>
+      </button>
+      <h1>My Portfolio</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nulla.
+      </p>
+      <button class="cta-btn" id="open">Contact Me</button>
+    </header>
+    <div class="container">
+      <h1>Corben Conner</h1>
+      <h4>Web Developer</h4>
+      <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore,
+        eligendi. Rerum inventore fugiat culpa saepe, quam ducimus esse
+        voluptatibus voluptatum, possimus harum explicabo quae vel eos, sapiente
+        aliquid impedit voluptas!
+      </p>
+      <h3>Skills</h3>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Node</li>
+        <li>MongoDB</li>
+      </ul>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque dicta
+        perferendis maxime aliquam repudiandae animi quisquam pariatur saepe
+        minima dolorum?
+      </p>
+      <h3>Why Me?</h3>
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et vitae
+        doloribus minus dolorum, corrupti iure deleniti tenetur vero, alias,
+        nisi dignissimos quod enim. Nulla praesentium corrupti sequi optio
+        perspiciatis quod modi rerum, delectus vero accusantium, facilis saepe
+        corporis illum, quibusdam quae debitis consectetur doloremque doloribus
+        nisi excepturi ut. Aliquid ad quam sit tempore quas magnam perspiciatis
+        neque debitis voluptatum recusandae!
+      </p>
+      <h3>More about me</h3>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae in
+        doloribus cum commodi fugiat eaque dolorum harum maxime cupiditate
+        repudiandae pariatur distinctio odit repellendus nemo dolorem soluta
+        fuga rerum aut magni quasi, ut odio qui vel numquam? Quos voluptatum,
+        vero temporibus corrupti fugit, molestias quod delectus illo eum facilis
+        natus sit, alias officiis! Odio, repudiandae possimus. Corporis,
+        reprehenderit magni! Repellat molestias voluptate vel. Iusto dignissimos
+        iure aliquam vel numquam atque delectus quis eum odio tenetur! Veniam
+        cum libero necessitatibus fugit numquam error nisi saepe quasi
+        laboriosam corrupti alias aliquam, esse ab distinctio vero temporibus
+        enim quos laborum magni blanditiis dolor.
+      </p>
+    </div>
+    <!-- Modal -->
+    <div class="modal-container" id="modal">
+      <div class="modal">
+        <button id="close" class="close-btn">
+          <i class="fa fa-times"></i>
+        </button>
+        <div class="modal-header">
+          <h3>Contact Me</h3>
+        </div>
+        <div class="modal-content">
+          <p>Work with me</p>
+          <form class="modal-form">
+            <div>
+              <label for="name">Name</label>
+              <input type="text" id="name" />
+            </div>
+            <div>
+              <label for="email">Email</label>
+              <input type="email" id="email" />
+            </div>
+            <div>
+              <label for="message">Message</label>
+              <textarea id="message"></textarea>
+            </div>
+            <button type="submit" class="submit-btn">Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="./script.js"></script>
+</html>
