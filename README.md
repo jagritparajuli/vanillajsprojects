@@ -15,3 +15,4 @@
 | 05  | User Wealth Management   | [Link](https://jagritparajuli.github.io/vanillajsprojects/user-wealth/index.html)              |
 | 06  | Modal & Slider Menu      | [Link](https://jagritparajuli.github.io/vanillajsprojects/modal-menu-slider/index.html)        |
 | 07  | Hangman                  | [Link](https://jagritparajuli.github.io/vanillajsprojects/hangman/index.html)                  |
+| 08  | Recipe App               | [Link](https://jagritparajuli.github.io/vanillajsprojects/recipe-app/index.html)               |

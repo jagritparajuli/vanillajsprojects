@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Recipe App</title>
+  </head>
+  <body>
+    <header>
+      <h1 id="logo">Search Recipes</h1>
+      <div class="form">
+        <input type="text" id="searchInput" placeholder="Type Here" />
+        <button id="searchBtn" class="searchBtn">
+          <i class="fa fa-search"></i>
+        </button>
+      </div>
+    </header>
+    <div class="container" id="container">
+      <h2 id="message" class="message"></h2>
+      <div class="cardsContainer" id="cardsContainer"></div>
+
+      <div class="result" id="result"></div>
+    </div>
+  </body>
+  <script src="./script.js"></script>
+</html>
