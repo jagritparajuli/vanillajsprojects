@@ -16,3 +16,4 @@
 | 06  | Modal & Slider Menu      | [Link](https://jagritparajuli.github.io/vanillajsprojects/modal-menu-slider/index.html)        |
 | 07  | Hangman                  | [Link](https://jagritparajuli.github.io/vanillajsprojects/hangman/index.html)                  |
 | 08  | Recipe App               | [Link](https://jagritparajuli.github.io/vanillajsprojects/recipe-app/index.html)               |
+| 09  | Expense Tracker          | [Link](https://jagritparajuli.github.io/expense-tracker/index.html)                            |
