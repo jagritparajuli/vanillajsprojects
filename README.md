@@ -17,3 +17,4 @@
 | 07  | Hangman                  | [Link](https://jagritparajuli.github.io/vanillajsprojects/hangman/index.html)                  |
 | 08  | Recipe App               | [Link](https://jagritparajuli.github.io/vanillajsprojects/recipe-app/index.html)               |
 | 09  | Expense Tracker          | [Link](https://jagritparajuli.github.io/vanillajsprojects/expense-tracker/index.html)          |
+| 10  | Music Player             | [Link](https://jagritparajuli.github.io/vanillajsprojects/music-player/index.html)             |
